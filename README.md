@@ -1,2 +1,2 @@
-# main.c
+# holbertonschool/your_first_code 
 repository
